@@ -10,4 +10,9 @@
     <string name="mensaje">Este es el portal de Suba, queda ubicado en Suba y alli va la gente que se transporta en transmilenio.</string>
     <string name="title_activity_maps2">Map</string>
     <string name="title_activity_maps3">Map</string>
+
+    <string name="btn_mapa_hibrido">Hibrido</string>
+    <string name="btn_mapa_satelital">Satelital</string>
+    <string name="btn_mapa_terreno">Terreno</string>
+    <string name="btn_mapa_normal">Normal</string>
 </resources>
